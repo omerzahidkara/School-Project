@@ -1,0 +1,1 @@
+In each line every character is used for one time.
